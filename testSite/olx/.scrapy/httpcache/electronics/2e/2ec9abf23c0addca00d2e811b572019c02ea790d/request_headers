@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: FPC_PRODUCT_VIEWED=10471%2C10506%2C10534%2C10572%2C14572; frontend=mlkb8r0kgp4d5si6o2ggtm81c2; frontend_cid=ov8o7WxkjGisofei
+Referer: https://www.pickaboo.com/mobile-tablet.html?p=14

@@ -1,0 +1,12 @@
+X-Xss-Protection: 1; mode=block
+X-Ocache: 1
+Content-Encoding: gzip
+Set-Cookie: my_city_2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.olx.com.pk
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Wed, 15 Nov 2017 17:29:46 GMT
+X-Frame-Options: deny
+Content-Type: text/html; charset=UTF-8
+Expires: Wed, 15 Nov 2017 17:29:46 GMT

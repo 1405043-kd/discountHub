@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: FPC_PRODUCT_VIEWED=8787%2C8007%2C8130%2C9313%2C8739; frontend=u467fo49cti4di0f4bk52ul2l0; frontend_cid=JfEorcvXMNs3skB6
+Referer: https://www.pickaboo.com/daily-need.html?p=20

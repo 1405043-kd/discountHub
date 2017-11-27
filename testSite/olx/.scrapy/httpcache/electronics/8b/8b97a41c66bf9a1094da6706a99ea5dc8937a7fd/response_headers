@@ -1,0 +1,15 @@
+X-Powered-By: PHP/5.5.9-1ubuntu4.19
+Set-Cookie: frontend=usjogtjcnec969krgftghfbr43; expires=Mon, 27-Nov-2017 18:42:07 GMT; Max-Age=3600; path=/; domain=www.pickaboo.com; HttpOnly
+Set-Cookie: frontend_cid=mtiWV4lEX6m9WMql; expires=Mon, 27-Nov-2017 18:42:07 GMT; Max-Age=3600; path=/; domain=www.pickaboo.com; secure; httponly
+Set-Cookie: FPC_PRODUCT_VIEWED=5273%2C14948%2C12037%2C9644%2C10209; expires=Mon, 27-Nov-2017 18:42:12 GMT; Max-Age=3600; path=/; domain=www.pickaboo.com; httponly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Fpc-Cache-Id: FPC_REQUEST_a79acd4d025608e017b656f782e6787b
+Server: nginx/1.4.6 (Ubuntu)
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Mon, 27 Nov 2017 17:42:12 GMT
+Access-Control-Allow-Origin: dv7x33v0cgmws.cloudfront.net
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip

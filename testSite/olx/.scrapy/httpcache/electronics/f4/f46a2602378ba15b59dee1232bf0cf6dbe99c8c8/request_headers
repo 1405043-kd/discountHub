@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: FPC_PRODUCT_VIEWED=9674%2C9727%2C9323%2C9768%2C5036; frontend=8nf5o0qvbtd048b95bdjjtgjv3; frontend_cid=TzVpOcU0Jfewn0lU
+Referer: https://www.pickaboo.com/electronics-appliances.html?p=22

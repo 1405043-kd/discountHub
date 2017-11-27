@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: FPC_PRODUCT_VIEWED=11016%2C8942%2C10950%2C10905%2C16983; frontend=6vcifrm2d6lob4d025a3fngtl2; frontend_cid=qzgNX6Rj31BC8CyT
+Referer: https://www.pickaboo.com/computer-pc.html?p=28

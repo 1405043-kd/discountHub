@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: FPC_PRODUCT_VIEWED=272%2C2786%2C12275%2C9003%2C3810; frontend=h3jm4h8k4k6j9pgr6iqicgu5i6; frontend_cid=4Dco17rVK4wMKSVJ
+Referer: https://www.pickaboo.com/lifestyle-entertainment.html?p=29
